@@ -33,7 +33,7 @@
 
 现在已经转到 Sublime Text 了，Sublime Text 主题等相关配置可以参考[这里](https://github.com/emanci/SublimeText3-Theme)。
 
-> #### 命名：
+#### 命名
 > 变量：名词，或者形容词+名称，或者名词+副词
 函数/方法：动词，或者动词+名词（动宾词组）
 删掉无意义的词，比如：info，data
