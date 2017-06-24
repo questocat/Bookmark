@@ -39,12 +39,12 @@
 删掉无意义的词，比如：info，data
 多个词时，按驼峰法处理：
 >
-> 1. 变量：驼峰（小驼峰）
-> 2. 数组下标：下划线（主要是为了 json, 与 mysql 字段保持一致）
-> 3. URL：
-> 3.1. 短横线（e.g. http://php-di.org/doc/understanding-di.html）
-> 3.2. key 为下划线（e.g. http://www.jianshu.com/p/0c808b2ee952?utm_campaign=haruki）
-> 4. 函数：下划线（保持与php内置函数一样）
-> 5. 接口名，类名：驼峰（大驼峰）
-> 6. 方法：驼峰（小驼峰）
-> 7. session，cookie 变量：下划线（e.g. oauth_user=xxx; logged_in=yes）
+> 1.  变量：驼峰（小驼峰）
+> 2.  数组下标：下划线（主要是为了 json, 与 mysql 字段保持一致）
+> 3.  URL：
+> 3.1.  短横线（e.g. http://php-di.org/doc/understanding-di.html）
+> 3.2.  key 为下划线（e.g. http://www.jianshu.com/p/0c808b2ee952?utm_campaign=haruki）
+> 4.  函数：下划线（保持与php内置函数一样）
+> 5.  接口名，类名：驼峰（大驼峰）
+> 6.  方法：驼峰（小驼峰）
+> 7.  session，cookie 变量：下划线（e.g. oauth_user=xxx; logged_in=yes）
