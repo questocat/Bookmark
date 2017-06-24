@@ -2,7 +2,7 @@
 
 #### 编码风格：Symfony2
 
-> ###### 个人的一些习惯，在 Phpstorm 中:
+> ###### 在 Phpstorm 中:
 >
 > 1. Spaces
 > After type cast：(int) $age; （注意有一个空格）
@@ -16,7 +16,7 @@
 > 4. 其他基本为 Symfony2 标准风格
 >
 >
-> ###### 个人的一些习惯，在 Sublime Text 中:
+> ###### 在 Sublime Text 中:
 > 在 Sublime Text 中依然使用的 Symfony2 风格，安装一个 php-cs-fixer 基本就可以搞定了。php-cs-fixer 代码格式化工具，格式化的标准是 PSR-1、PSR-2 以及一些 symfony 的标准。
 >
 > OSX / Linux Install
