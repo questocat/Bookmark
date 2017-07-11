@@ -16,7 +16,7 @@ callable - 下一层中间件的回调对象
 
 当 Slim 应用运行时，请求对象和响应对象从外到内穿过中间件结构。它们首先进入最外层的中间件，然后然后进入下一层，（以此类推）。直到最后它们到达了 Slim 应用程序自身。在 Slim 应用分派了对应的路由后，作为结果的响应对象离开 Slim 应用，然后从内到外穿过中间件结构。最终，最后出来的响应对象离开了最外层的中间件，被序列化为一个原始的 HTTP 响应消息，并返回给 HTTP 客户端。下图清楚的说明了中间件的工作流程：
 
-<img src="https://github.com/emanci/Bookmark/blob/master/middleware.png" width = "450" alt="material-theme" align=center />
+<img src="https://github.com/emanci/Bookmark/blob/master/Framework/Slim/middleware.png" width = "450" alt="middleware" align=center />  
 
 我们可以使用下面这段简单的代码来理解 Slim 中间件的执行流程：
 
