@@ -61,5 +61,5 @@ $app->run();
 
 ```
 
-参考：
+参考：  
 http://slimphp.net/docs/concepts/middleware.html
