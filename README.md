@@ -7,4 +7,4 @@
  - [学习资料](https://github.com/emanci/Bookmark/blob/master/Awesome-Website.md)
  - [有趣的东东](https://github.com/emanci/Bookmark/blob/master/Funny%20Things.md)
  - [项目部署](https://github.com/emanci/deploy-practices)
- - [Linux BBR 实践](https://github.com/emanci/Bookmark/blob/master/Practices/Linux%20BBR%20%E5%AE%9E%E8%B7%B5.md)
+ - [Linux BBR 实践](https://github.com/emanci/Bookmark/blob/master/Practices/Linux-BBR-practice.md)
