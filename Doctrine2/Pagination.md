@@ -29,3 +29,7 @@ foreach ($paginator as $bug) {
     print_r($bug);
 }
 ```
+
+## Reference
+
+* [Pagination](http://docs.doctrine-project.org/en/latest/tutorials/pagination.html)
