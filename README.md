@@ -9,3 +9,4 @@
  - [项目部署](https://github.com/emanci/deploy-practices)
  - [Linux BBR 实践](https://github.com/emanci/Bookmark/blob/master/Practices/Linux-BBR-practice.md)
  - [Sublime Text Settings](https://github.com/emanci/Bookmark/blob/master/Sublime-Settings.md)
+ - [About Ask Questions](https://github.com/emanci/Bookmark/blob/master/About-ask-questions.md)
