@@ -7,6 +7,7 @@
  - [学习资料](https://github.com/emanci/Bookmark/blob/master/Awesome-Website.md)
  - [有趣的东东](https://github.com/emanci/Bookmark/blob/master/Funny-Things.md)
  - [项目部署](https://github.com/emanci/deploy-practices)
+ - [PHP](https://github.com/emanci/Bookmark/blob/master/Php.md)
  - [Linux BBR 实践](https://github.com/emanci/Bookmark/blob/master/Practices/Linux-BBR-practice.md)
  - [Sublime Text Settings](https://github.com/emanci/Bookmark/blob/master/Sublime-Settings.md)
  - [About Ask Questions](https://github.com/emanci/Bookmark/blob/master/About-ask-questions.md)
